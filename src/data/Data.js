@@ -22,7 +22,7 @@ export const products = [
     id: 1,
     category: "Flowers",
     product_name: "Sunflower",
-    product_img: "../assets/img/sunflower.jpg",
+    product_img: "../public/assets/img/sunflower.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
     price: "4.99",
@@ -32,7 +32,7 @@ export const products = [
     id: 2,
     category: "Bayan Trees",
     product_name: "Singapore Bayan",
-    product_img: "../assets/img/singaporeBayan.jpeg",
+    product_img: "../public/assets/img/singaporeBayan.jpeg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
     price: "2.99",
@@ -42,7 +42,7 @@ export const products = [
     id: 3,
     category: "Flowers",
     product_name: "Tulip",
-    product_img: "../assets/img/tulip.jpg",
+    product_img: "../public/assets/img/tulip.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
     price: "8.99",
@@ -52,7 +52,7 @@ export const products = [
     id: 4,
     category: "Flowers",
     product_name: "White Rose",
-    product_img: "../assets/img/whiterose.jpg",
+    product_img: "../public/assets/img/whiterose.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
     price: "3.99",
@@ -61,7 +61,7 @@ export const products = [
     id: 5,
     category: "Cactus",
     product_name: "Cactus",
-    product_img: "../assets/img/cactus1.jpg",
+    product_img: "../public/assets/img/cactus1.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
     price: "3.99",
@@ -71,7 +71,7 @@ export const products = [
     id: 6,
     category: "Snake Plants",
     product_name: "Viet Nam Snake Plant",
-    product_img: "../assets/img/snakeplt.jpg",
+    product_img: "../public/assets/img/snakeplt.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
     price: "3.99",
@@ -80,7 +80,7 @@ export const products = [
     id: 7,
     category: "Snake Plants",
     product_name: "Big Snake Plant",
-    product_img: "../assets/img/snakeplt2.jpg",
+    product_img: "../public/assets/img/snakeplt2.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
     price: "3.99",
@@ -89,7 +89,7 @@ export const products = [
     id: 8,
     category: "Cactus",
     product_name: "Big Cactus",
-    product_img: "../assets/img/cactus2.jpg",
+    product_img: "../public/assets/img/cactus2.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
     price: "3.99",
@@ -98,11 +98,11 @@ export const products = [
 export const slids = [
   {
     category: "Flowers",
-    slide_img: "../assets/img/hero-img-1.jpg",
+    slide_img: "../public/assets/img/hero-img-1.jpg",
   },
   {
     category: "Plants",
-    slide_img: "../assets/img/hero-img-2.jpg",
+    slide_img: "../public/assets/img/hero-img-2.jpg",
   },
 ];
 export const features = [
