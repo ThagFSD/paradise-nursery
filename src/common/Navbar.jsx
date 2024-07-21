@@ -24,7 +24,7 @@ export default function Navbar() {
                         </button>
                         <div className="collapse navbar-collapse bg-white" id="navbarCollapse">
                             <div className="navbar-nav mx-auto">
-                                <Link to="/"  className="nav-item nav-link active">Home</Link>
+                                <Link to="/paradise-nursery"  className="nav-item nav-link active">Home</Link>
                                 <Link to="/shop"  className="nav-item nav-link">Shop</Link>
                                 <Link to="/shop-details" className="nav-item nav-link">Shop Detail</Link>
                                 <div className="nav-item dropdown">
